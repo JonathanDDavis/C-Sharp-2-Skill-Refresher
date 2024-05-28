@@ -1,0 +1,13 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\bin\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.exe
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\bin\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\bin\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\bin\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\bin\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\bin\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\obj\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\obj\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\obj\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\obj\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\obj\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\obj\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# 2 Programs\C Sharp 2 Skill Refresher\C Sharp 2 Skill Refresher\obj\Debug\netcoreapp3.1\C Sharp 2 Skill Refresher.genruntimeconfig.cache
